@@ -3,7 +3,7 @@ title = "Draft test"
 description = "Lorem Ipsum Dolor Si Amet"
 author = "Hugo Authors"
 date = "2021-01-02"
-draft = true
+draft = false
 tags = ["markdown", "text"]
 [[images]]
   src = "img/2019/03/pic03.jpg"
