@@ -40,7 +40,7 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Fuzzy Admin"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
