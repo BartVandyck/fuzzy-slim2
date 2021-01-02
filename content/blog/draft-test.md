@@ -14,3 +14,8 @@ tags = ["markdown", "text"]
 Date created: 2021-01-02
 
 Test to see how drafts are taken cared off
+<!--more-->
+
+# Heading 1
+
+this is stanford!
